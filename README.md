@@ -1,9 +1,4 @@
 ## My name is Valentyna Lavrenchuk! 👋
-
-
-<!--
-**LavrenchukV/LavrenchukV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋 Hi, I’m [Your Name]
 
 🎓 Graduate of the Department of Economic Cybernetics, Taras Shevchenko National University of Kyiv
