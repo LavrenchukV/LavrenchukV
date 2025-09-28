@@ -4,10 +4,11 @@
 
 📊 Experienced in data analysis, university-level teaching and entrepreneurship
 
-🚀 Passionate about connecting economic reasoning with modern data-driven methods
+🚀 Bridging economic reasoning and data science to generate insights and solutions
 
 🧠 Driven by curiosity to analyze data and extract practical insights
 
+---
 
 🔎 Interests
 - 📈 Applied Econometrics
