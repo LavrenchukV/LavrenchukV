@@ -2,7 +2,7 @@
 
 🎓 Graduate of the Department of Economic Cybernetics, Taras Shevchenko National University of Kyiv
 
-📊 Experienced in data analysis, econometrics, teaching, and entrepreneurship
+📊 Experienced in data analysis, university-level teaching and entrepreneurship
 
 🚀 Passionate about connecting economic reasoning with modern data-driven methods
 
