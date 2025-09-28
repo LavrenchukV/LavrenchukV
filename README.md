@@ -6,7 +6,7 @@
 
 🚀 Bridging economic reasoning and data science to generate insights and solutions
 
-🧠 Driven by curiosity to learn, explore, and apply new approaches in data science
+🧠 Driven by curiosity to learn, explore and apply new approaches in data science
 
 ---
 
