@@ -1,5 +1,4 @@
-## My name is Valentyna Lavrenchuk! 👋
-👋 Hi, I’m [Your Name]
+## 👋 Hi! My name is Valentyna Lavrenchuk! 👋
 
 🎓 Graduate of the Department of Economic Cybernetics, Taras Shevchenko National University of Kyiv
 📊 Experienced in data analysis, econometrics, teaching, and entrepreneurship
