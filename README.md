@@ -1,8 +1,13 @@
 ## 👋 Hi! My name is Valentyna Lavrenchuk! 👋
 
 🎓 Graduate of the Department of Economic Cybernetics, Taras Shevchenko National University of Kyiv
+
 📊 Experienced in data analysis, econometrics, teaching, and entrepreneurship
+
 🚀 Passionate about connecting economic reasoning with modern data-driven methods
+
+🧠 Driven by curiosity to analyze data and extract practical insights
+
 
 🔎 Interests
 - 📈 Applied Econometrics
